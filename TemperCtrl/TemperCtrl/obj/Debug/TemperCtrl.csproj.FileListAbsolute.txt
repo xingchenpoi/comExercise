@@ -1,0 +1,9 @@
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\bin\Debug\TemperCtrl.exe
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\bin\Debug\TemperCtrl.pdb
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csprojResolveAssemblyReference.cache
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.Form1.resources
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.Properties.Resources.resources
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.GenerateResource.Cache
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.CoreCompileInputs.cache
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.exe
+D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.pdb

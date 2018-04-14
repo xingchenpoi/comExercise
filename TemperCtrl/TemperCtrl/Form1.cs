@@ -14,6 +14,7 @@ namespace TemperCtrl
     public partial class Form1 : Form
     {
         MySerialPort mySerialPort = new MySerialPort();
+        MyTemper temper = new MyTemper();
 
         public Form1()
         {
@@ -160,6 +161,11 @@ namespace TemperCtrl
                 }
             }
         }
+
+        private void ParaButton_Click(object sender, EventArgs e)
+        {
+            temper.
+        }
     }
 
     //串口设置
@@ -176,6 +182,23 @@ namespace TemperCtrl
         {
             OpenFlg = state;
         }
+
+    }
+
+    public class MyTemper
+    {
+        private struct Para{
+            UInt16 SetTemper;       //设定温度
+            UInt16 AlarmTemper;     //报警温度
+            UInt16 AlarmTime;       //报警时间
+            float P;
+            float I;
+            float D;
+            UInt16 PIDCycle;        //PID计算周期
+            UInt16 StartCheckTime;  //开始检测时间
+        };
+
+        private int Type { set; get; }    //温控器类型
 
     }
 }

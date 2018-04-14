@@ -7,3 +7,12 @@ D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.Ge
 D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.CoreCompileInputs.cache
 D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.exe
 D:\工作\代码\TemperCtrl\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.pdb
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\bin\Debug\TemperCtrl.exe
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\bin\Debug\TemperCtrl.pdb
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csprojResolveAssemblyReference.cache
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.Form1.resources
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.Properties.Resources.resources
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.GenerateResource.Cache
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.csproj.CoreCompileInputs.cache
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.exe
+E:\visual studio 2017\comExercise\TemperCtrl\TemperCtrl\obj\Debug\TemperCtrl.pdb
